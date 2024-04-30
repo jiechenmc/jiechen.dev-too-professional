@@ -30,7 +30,7 @@ export default function Home() {
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
         <NavItem title="About" href="/about" body="Learn more about me :D" />
         <NavItem title="Projects" href="/projects" body="Check out some projects I have done in the past." />
-        <NavItem title="Blog" href="https://blog.jiechen.dev" body="Check out some tutorials that I have made for others and myself." />
+        <NavItem title="Blog" href="https://blog.jiechen.dev/posts" body="Check out some tutorials that I have made for others and myself." />
         <NavItem title="Loqi" href="https://loqi.jiechen.dev" body="An generative AI study application that I am currently working on with my Vertically Integrated Projects (VIP) Team" />
       </div>
     </main >

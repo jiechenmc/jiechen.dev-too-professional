@@ -47,8 +47,6 @@ export default function Home() {
         <NavItem title="About" href="/about" body="Learn more about me :D" />
         <NavItem title="Projects" href="/projects" body="Check out some projects I have done in the past." />
         <NavItem title="Tutorials" href="/tutorials" body="Check out some tutorials that I have made for others and myself." />
-        <NavItem title="Skills" href="/skills" body="Visualization of my skillset" />
-
       </div>
     </main>
   );

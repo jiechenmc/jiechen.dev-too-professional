@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { P } from '../typography';
+import { P } from '@/components/typography';
 
 interface Props {
     title: string
